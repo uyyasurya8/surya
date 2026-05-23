@@ -1,3 +1,5 @@
 playwright
 pytest
 pyxelator
+allure.pytest
+python-dotenv
